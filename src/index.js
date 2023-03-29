@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Zyciorys from "./Zyciorys";
 import Getto from "./Getto";
 import "./global.css";
@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Navbar />
-    <HashRouter>
+    <HashRouter basename="/sdim.github.com">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/zyciorys" element={<Zyciorys />} />
