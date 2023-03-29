@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid #000;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.gallery {
+  margin-top: 10px;
+  border: 1px solid #000;
+  padding: 15px;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+.gallery > img {
+  max-width: 100%;
+  height: auto;
+}

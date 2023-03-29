@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid #000;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.nowyRozdzial {
+  font-size: 46px;
+  margin: 10px;
+}
