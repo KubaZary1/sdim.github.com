@@ -76,7 +76,7 @@ function Getto() {
           <br />
           Mordechaj Anielewicz miał w tym powstaniu swoją ważną rolę, ale opiszę
           to na innej podstronie.{" "}
-          <a href="/zyciorys">
+          <a href="/sdim.github.com/#/zyciorys">
             Kliknij tutaj aby przejść do podstrony ŻYCIORYS
           </a>
         </div>
