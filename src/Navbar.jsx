@@ -13,7 +13,7 @@ function Navbar() {
       <div className="navSpacer"></div>
       <nav className={mobileState ? "navbarActive" : "navbar"}>
         <div className="navbarLinks">
-          <a href="/">STRONA GŁÓWNA</a>
+          <a href="/sdim.github.com/#/">STRONA GŁÓWNA</a>
           <a href="/sdim.github.com/#/zyciorys">ŻYCIORYS</a>
           <a href="/sdim.github.com/#/autorzy">AUTORZY</a>
           <a href="/sdim.github.com/#/getto-powstanie">POWSTANIE W GETCIE</a>
