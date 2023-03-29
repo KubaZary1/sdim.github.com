@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Navbar />
-    <Router>
+    <Router basename="/sdim.github.com">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/zyciorys" element={<Zyciorys />} />
