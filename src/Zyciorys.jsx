@@ -10,12 +10,12 @@ function Zyciorys() {
         uczył się w prywatnym hebrajskim męskim Gimnazjum Towarzystwa
         &quot;Laor&quot; przy ulicy Nalewki 2a. Dzięki bardzo dobrym wynikom w
         nauce, nie musiał płacić czesnego. Maturę zdał w 1938.
-        <div className="nowyRozdzial">2. Przynależności</div>
-        do organizacji Od 1933 roku Mordechaj należał do prawicowej organizacji
-        młodzieżowej o nazwie Betar(Związek Młodzieży Hebrajskiej im. Josefa
-        Trumpeldora), organizacja ta dążyła do ustanowienia państwa żydowskiego
-        na terenach Palestyny [Kliknij tutaj aby zobaczyć jak wyglądało ich
-        logo] . W roku 1934 dołączył do organizacji skautowej lewicowej o nazwie
+        <div className="nowyRozdzial">2. Przynależności do organizacji</div>
+        Od 1933 roku Mordechaj należał do prawicowej organizacji młodzieżowej o
+        nazwie Betar(Związek Młodzieży Hebrajskiej im. Josefa Trumpeldora),
+        organizacja ta dążyła do ustanowienia państwa żydowskiego na terenach
+        Palestyny [Kliknij tutaj aby zobaczyć jak wyglądało ich logo] . W roku
+        1934 dołączył do organizacji skautowej lewicowej o nazwie
         &quot;Ha-Szomer Ha-Cair&quot;, organizacja ta głośiła, że jedynym
         sensownym rozwiązaniem dla żydów aby być szanowanym i tolerowanym, był
         wyjazd do palestyny.
@@ -23,7 +23,7 @@ function Zyciorys() {
         Mordechaj został dowódcą oddziału (gdudu) hufca &quot;Bechazit&quot; i
         członkiem komendy warszawskiej, a w 1939 wszedł do Komendy Naczelnej. W
         latach 1936-1938 organizator samoobrony przeciwko antysemickim akcjom
-        ONR, a także przcwko nacjonalistom żydowskim. Mordechaj Anielewicz w
+        ONR, a także przeciwko nacjonalistom żydowskim. Mordechaj Anielewicz w
         czasie kampanii wrześniowej wraz z kolegami z organizacji Ha-Szomer
         Ha-Cair usiłował przedostać się do Rumunii, jednak został na krótko
         aresztowany przez władze radzieckie. Powrócił do Warszawy po kapitulacji
