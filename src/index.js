@@ -6,17 +6,21 @@ import Zyciorys from "./Zyciorys";
 import Getto from "./Getto";
 import "./global.css";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Navbar />
-    <Router>
-      <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/zyciorys" element={<Zyciorys />} />
-        <Route path="/getto-powstanie" element={<Getto />} />
-      </Routes>
-    </Router>
+    <div className="globalContent">
+      <Router>
+        <Routes>
+          <Route path="/" element={<App />} />
+          <Route path="/zyciorys" element={<Zyciorys />} />
+          <Route path="/getto-powstanie" element={<Getto />} />
+        </Routes>
+      </Router>
+    </div>
+    <Footer />
   </React.StrictMode>
 );
