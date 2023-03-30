@@ -53,6 +53,30 @@ function Zyciorys() {
         śmierci nie są dokładnie znane. W bunkrze znajdowało się około 120
         powstańców, w tym jego dziewczyna Mira Fuchrer. Wielu z nich popełniło
         samobójstwo na wezwanie Arie Wilnera.
+        <div className="nowyRozdzial">5. Śmierć</div>
+        Mordechaj Anielewicz zmarł tragicznie w dniu 8 maja 1943 roku w trakcie
+        walk w getcie warszawskim. Śmierć Anielewicza była wynikiem intensywnych
+        walk pomiędzy bojownikami a niemieckimi oddziałami. Anielewicz i jego
+        towarzysze bronili jednej z ostatnich pozycji w getcie, w budynku przy
+        ulicy Miłej 18. Niemieckie wojska otoczyły budynek, a po kilku dniach
+        walki, zaczęły go burzyć przy użyciu granatów i materiałów wybuchowych.
+        W trakcie walki Anielewicz dowodził swoimi ludźmi z ogromnym
+        poświęceniem i odwagą. Niemniej jednak, sytuacja stawała się coraz
+        bardziej beznadziejna. W końcu, wraz z kilkoma towarzyszami, uciekł na
+        ostatnią kondygnację budynku. Tam, zamiast poddać się, postanowili
+        popełnić samobójstwo, aby uniknąć schwytania i śmierci z rąk Niemców.
+        Anielewicz wybrał śmierć z honoru, zdał sobie sprawę, że po walce,
+        niemieckie oddziały wzięłyby ich do niewoli i dopuściłyby się na nich
+        okrutnych zbrodni.{" "}
+        <div>
+          <br />
+        </div>{" "}
+        Śmierć Anielewicza była ogromną stratą dla ŻOB i dla całego getta
+        warszawskiego. Jednak jego poświęcenie i odwaga stały się symbolem walki
+        żydowskiej ludności z okupantem nazistowskim i zainspirowały wielu ludzi
+        do walki o wolność i godność. Współcześnie Anielewicz jest uważany za
+        bohatera narodowego Izraela i zawsze będzie pamiętany jako przykład
+        determinacji, odwagi i ofiary w imię wolności i sprawiedliwości.
       </div>
     </>
   );
