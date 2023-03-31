@@ -1,8 +1,32 @@
 import "./zyciorys.css";
+import img1 from "./mordechajAnielewicz/mordechajprofilowe.jpg";
+import img2 from "./mordechajAnielewicz/mordechaj2.jpg";
+import img3 from "./mordechajAnielewicz/mordechaj3.jpg";
+import img4 from "./betar/betar.jpg";
+
+import { useState } from "react";
 function Zyciorys() {
+  const [logoPrev, setLogoPrev] = useState(false);
+  const prevLogo = () => {
+    setLogoPrev((prev) => !prev);
+  };
   return (
     <>
       <div className="content">
+        <div className="img-scroll">
+          <img src={img1} alt="profilowe" width={200} />
+          <img src={img2} alt="profilowe2" width={200} />
+          <img src={img3} alt="profilowe3" width={200} />
+        </div>
+        <div className={logoPrev ? "imagePopup" : ""}>
+          <img src={img4} alt="BETAR" width={logoPrev ? 300 : 0} />
+          <button
+            className={logoPrev ? "closePopupButon" : "closePopupButonDisabled"}
+            onClick={() => setLogoPrev(false)}
+          >
+            Kliknij aby zamknąć
+          </button>
+        </div>
         <div className="big-text">Życie prywatne Mordechaja Anielewicza</div>
         <div className="container">
           <div className="nowyRozdzial">1. Życie prywatne </div>
@@ -17,8 +41,11 @@ function Zyciorys() {
           Od 1933 roku Mordechaj należał do prawicowej organizacji młodzieżowej
           o nazwie Betar(Związek Młodzieży Hebrajskiej im. Josefa Trumpeldora),
           organizacja ta dążyła do ustanowienia państwa żydowskiego na terenach
-          Palestyny [Kliknij tutaj aby zobaczyć jak wyglądało ich logo] . W roku
-          1934 dołączył do organizacji skautowej lewicowej o nazwie
+          Palestyny{" "}
+          <button onClick={prevLogo} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wyglądało ich logo]
+          </button>{" "}
+          . W roku 1934 dołączył do organizacji skautowej lewicowej o nazwie
           &quot;Ha-Szomer Ha-Cair&quot;, organizacja ta głośiła, że jedynym
           sensownym rozwiązaniem dla żydów aby być szanowanym i tolerowanym, był
           wyjazd do palestyny.
