@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/sdim.github.com/static/css/main.97e8e5bd.css",
-    "main.js": "/sdim.github.com/static/js/main.08ed4fbf.js",
+    "main.css": "/sdim.github.com/static/css/main.1dc7a2bd.css",
+    "main.js": "/sdim.github.com/static/js/main.225f0259.js",
     "static/media/getto.jpg": "/sdim.github.com/static/media/getto.ef157a9fbf458ff14c20.jpg",
     "static/media/getto0.jpg": "/sdim.github.com/static/media/getto0.92e9e4da8b8693778962.jpg",
+    "static/media/mordechaj3.jpg": "/sdim.github.com/static/media/mordechaj3.502387b3ef5922b463c1.jpg",
     "static/media/get1.jpg": "/sdim.github.com/static/media/get1.b11fac74898f4a415ab6.jpg",
     "static/media/get2.jpg": "/sdim.github.com/static/media/get2.5df089226da3e9ba9f03.jpg",
+    "static/media/mordechajprofilowe.jpg": "/sdim.github.com/static/media/mordechajprofilowe.84743e0413b59c426e4c.jpg",
+    "static/media/betar.jpg": "/sdim.github.com/static/media/betar.d66342d854e838d4704e.jpg",
     "index.html": "/sdim.github.com/index.html",
-    "main.97e8e5bd.css.map": "/sdim.github.com/static/css/main.97e8e5bd.css.map",
-    "main.08ed4fbf.js.map": "/sdim.github.com/static/js/main.08ed4fbf.js.map"
+    "main.1dc7a2bd.css.map": "/sdim.github.com/static/css/main.1dc7a2bd.css.map",
+    "main.225f0259.js.map": "/sdim.github.com/static/js/main.225f0259.js.map"
   },
   "entrypoints": [
-    "static/css/main.97e8e5bd.css",
-    "static/js/main.08ed4fbf.js"
+    "static/css/main.1dc7a2bd.css",
+    "static/js/main.225f0259.js"
   ]
 }
