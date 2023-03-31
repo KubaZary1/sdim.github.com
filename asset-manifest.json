@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sdim.github.com/static/css/main.fe28bbb6.css",
-    "main.js": "/sdim.github.com/static/js/main.cb136383.js",
+    "main.css": "/sdim.github.com/static/css/main.d870ede1.css",
+    "main.js": "/sdim.github.com/static/js/main.08ed4fbf.js",
     "static/media/getto.jpg": "/sdim.github.com/static/media/getto.ef157a9fbf458ff14c20.jpg",
     "static/media/getto0.jpg": "/sdim.github.com/static/media/getto0.92e9e4da8b8693778962.jpg",
     "static/media/get1.jpg": "/sdim.github.com/static/media/get1.b11fac74898f4a415ab6.jpg",
     "static/media/get2.jpg": "/sdim.github.com/static/media/get2.5df089226da3e9ba9f03.jpg",
     "index.html": "/sdim.github.com/index.html",
-    "main.fe28bbb6.css.map": "/sdim.github.com/static/css/main.fe28bbb6.css.map",
-    "main.cb136383.js.map": "/sdim.github.com/static/js/main.cb136383.js.map"
+    "main.d870ede1.css.map": "/sdim.github.com/static/css/main.d870ede1.css.map",
+    "main.08ed4fbf.js.map": "/sdim.github.com/static/js/main.08ed4fbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe28bbb6.css",
-    "static/js/main.cb136383.js"
+    "static/css/main.d870ede1.css",
+    "static/js/main.08ed4fbf.js"
   ]
 }
