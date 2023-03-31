@@ -1,13 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
 :root {
   --nav-height: 60px;
+  --nav-background: #fff; /* #141414 */
+  --nav-text-color: #000; /* #fff */
+  --nav-shadow: 0 -1px 5px #000;
+  --nav-mobile-shadow: -1px 0px 5px #000;
+}
+.navbar {
+  box-shadow: var(--nav-shadow);
+}
+.navbarActive {
+  box-shadow: var(--nav-mobile-shadow);
 }
 .navbar,
 .navbarActive {
-  background-color: #141414;
+  background-color: var(--nav-background);
   height: var(--nav-height);
   display: flex;
-  justify-content: center;
-  color: #fff;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--nav-text-color);
   position: fixed;
   left: 0;
   right: 0;
@@ -20,7 +32,10 @@
 .navbar a,
 .navbarActive a {
   text-decoration: none;
-  color: #fff;
+  color: var(--nav-text-color);
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  transition: all 0.15s ease;
 }
 .navbar a:hover,
 .navbarActive a:hover {
@@ -43,21 +58,35 @@
   z-index: 999;
 }
 .responsiveButton button {
-  width: 100px;
-  height: 50px;
-  background-color: #303030;
-  color: #fff;
-  border-style: solid;
-  border-color: #141414;
-  border-radius: 10px;
+  box-shadow: 0px 0px 5px #000;
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+  background-color: #fff;
+  border-style: none;
+  color: #000;
+  border-radius: 3px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
   cursor: pointer;
   display: none;
+  transition: transform 0.15s ease;
 }
 .responsiveButton button:active {
-  background-color: #202020;
+  transform: translateY(3px);
+  background-color: #eeef;
+}
+.navbarLogo {
+  font-size: 32px;
+  margin: 20px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 992px) {
+  .navbarLogo {
+    display: none;
+  }
   .navSpacer {
     width: 0%;
     height: 0px;
