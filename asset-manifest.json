@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sdim.github.com/static/css/main.1dc7a2bd.css",
+    "main.css": "/sdim.github.com/static/css/main.8099f8ac.css",
     "main.js": "/sdim.github.com/static/js/main.c5ded68e.js",
     "static/media/getto.jpg": "/sdim.github.com/static/media/getto.ef157a9fbf458ff14c20.jpg",
     "static/media/getto0.jpg": "/sdim.github.com/static/media/getto0.92e9e4da8b8693778962.jpg",
@@ -10,11 +10,11 @@
     "static/media/mordechajprofilowe.jpg": "/sdim.github.com/static/media/mordechajprofilowe.84743e0413b59c426e4c.jpg",
     "static/media/betar.jpg": "/sdim.github.com/static/media/betar.d66342d854e838d4704e.jpg",
     "index.html": "/sdim.github.com/index.html",
-    "main.1dc7a2bd.css.map": "/sdim.github.com/static/css/main.1dc7a2bd.css.map",
+    "main.8099f8ac.css.map": "/sdim.github.com/static/css/main.8099f8ac.css.map",
     "main.c5ded68e.js.map": "/sdim.github.com/static/js/main.c5ded68e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc7a2bd.css",
+    "static/css/main.8099f8ac.css",
     "static/js/main.c5ded68e.js"
   ]
 }
