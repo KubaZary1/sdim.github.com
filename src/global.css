@@ -27,6 +27,7 @@ body {
 .big-text {
   font-size: 62px;
 }
+
 @media screen and (max-width: 992px) {
   .big-text {
     font-size: 42px;

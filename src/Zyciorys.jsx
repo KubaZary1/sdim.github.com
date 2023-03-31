@@ -110,6 +110,48 @@ function Zyciorys() {
           uważany za bohatera narodowego Izraela i zawsze będzie pamiętany jako
           przykład determinacji, odwagi i ofiary w imię wolności i
           sprawiedliwości.
+          <div className="nowyRozdzial">6. Odznaczenia / Upamiętnienia</div>
+          Mordechaj po swojej śmierci zdobył 2 odznaczenia:
+          <ul className="zyciorysUl">
+            <li>
+              Order Krzyża Grunwaldu III klasy - 18 kwietnia 1945 (po śmierci,
+              rozkazem ND WP)
+            </li>
+            <li>
+              Krzyż Walecznych - 25 lipca 1944 (po śmierci, rozkazem L.400/BP KG
+              AK){" "}
+            </li>
+          </ul>
+          <div>
+            <br />
+          </div>
+          <div>
+            <br />
+          </div>
+          Mordechaj Anielewicz, jako jedna z najważniejszych postaci powstania w
+          getcie warszawskim, został uhonorowany licznymi upamiętnieniami za
+          swoją niezłomność i odwagę w walce z okupantami nazistowskimi.
+          <br />
+          Jego imię stało się nazwą oddziału partyzanckiego Gwardii Ludowej,
+          utworzonego przez uczestników powstania w getcie. W 1955 roku dawna
+          ulica Gęsia w Warszawie została przemianowana na ulicę Mordechaja
+          Anielewicza, a w 1993 roku Mennica Państwowa wybiła medal z jego
+          podobizną, upamiętniającą 50. rocznicę powstania w getcie.
+          <br />
+          Mordechaj Anielewicz został również uwieczniony na kamiennym bloku
+          Traktu Pamięci Męczeństwa i Walki Żydów w Warszawie oraz na obelisku
+          Kopca Anielewicza przy dawnej ulicy Miłej 18. W 2003 roku, z okazji
+          60. rocznicy śmierci, na skwerze Berka Joselewicza w Wyszkowie
+          odsłonięto pomnik składający się z trzech tablic z napisami w językach
+          polskim, hebrajskim i angielskim, na którym widnieje imię Mordechaja
+          Anielewicza.
+          <br />
+          Jego nazwisko związane jest także z kibucem Jad Mordechaj w Izraelu
+          oraz z Centrum Badania i Nauczania Dziejów i Kultury Żydów w Polsce
+          im. Mordechaja Anielewicza, założonym w 1990 roku przy Uniwersytecie
+          Warszawskim. W Amsterdamie ulica Anielewiczsingel w dzielnicy
+          Osdorp-De Aker również upamiętnia bohatera powstania w getcie
+          warszawskim.
         </div>
       </div>
     </>

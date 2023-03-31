@@ -82,7 +82,11 @@
   font-family: "Lato", sans-serif;
   font-weight: 700;
 }
-
+@media screen and (max-width: 1235px) {
+  .navbarLogo {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 992px) {
   .navbarLogo {
     display: none;
