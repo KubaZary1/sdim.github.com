@@ -3,6 +3,11 @@ import img1 from "./getto/get1.jpg";
 import img2 from "./getto/get2.jpg";
 import img3 from "./getto/getto.jpg";
 import img4 from "./getto/getto0.jpg";
+import img5 from "./getto/get3.jpg";
+import img6 from "./getto/get4.jpg";
+import img7 from "./getto/get5.jpg";
+import img8 from "./getto/get6.jpg";
+import img9 from "./getto/get7.jpg";
 
 function Getto() {
   return (
@@ -91,6 +96,11 @@ function Getto() {
           <img src={img2} alt="img2" width={500} height={500} />
           <img src={img3} alt="img3" width={500} height={500} />
           <img src={img4} alt="img4" width={500} height={500} />
+          <img src={img5} alt="img5" width={500} height={500} />
+          <img src={img6} alt="img6" width={500} height={500} />
+          <img src={img7} alt="img7" width={500} height={500} />
+          <img src={img8} alt="img8" width={500} height={500} />
+          <img src={img9} alt="img8" width={500} height={500} />
         </div>
       </div>
     </>
