@@ -34,7 +34,7 @@ function Zyciorys() {
             X
           </button>
         </div>
-        <div className="big-text">Życie prywatne Mordechaja Anielewicza</div>
+        <div className="big-text">Życiorys Mordechaja Anielewicza</div>
         <div className="container">
           <div className="nowyRozdzial">1. Życie prywatne </div>
           Mordechaj Anielewicz urodził się w Wyszykowie w 1919 roku. Jego

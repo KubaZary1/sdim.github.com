@@ -37,19 +37,71 @@ function Getto() {
             Bojowa (ŻOB) i Żydowski Związek Wojskowy (ŻZW), przeprowadzały
             intensywny trening swoich członków, zbierały broń i amunicję oraz
             planowały atak na niemieckie jednostki.
-            <br />
-            W książce &quot;Polskie państwo podziemne&quot; Stefana Korbońskiego
-            opisano współpracę polskich partyzantów z Żydami podczas powstania.
-            Polska Armia Krajowa (AK) dostarczała Żydom broń i amunicję oraz
-            pomagała w przenoszeniu rannych i ewakuacji cywilów z getta.
-            Współpraca ta była bardzo ważna dla Żydów, którzy czuli się wsparci
-            przez swoich polskich sąsiadów.
-            <br />
-            Książka &quot;Marek Edelman życie. Po prostu&quot; Witolda Beresia
-            natomiast skupia się na postaci Marka Edelmana, jednego z liderów
-            ŻOB. To właśnie Edelman był jednym z głównych organizatorów
-            powstania i dowódców podczas walk.
-            <br />
+            <div>
+              <br />
+            </div>
+            Stefan Korboński w swojej książce &quot;Polskie państwo
+            podziemne&quot; przedstawia historię powstania i działalności
+            Polskiego Państwa Podziemnego, które stanowiło nie tylko ruch oporu
+            przeciwko okupantowi, ale również realną alternatywę dla rządu na
+            uchodźstwie. Autor opisuje strukturę i organizację Polskiego Państwa
+            Podziemnego, a także jego działalność w różnych dziedzinach, takich
+            jak walka zbrojna, propaganda czy dyplomacja. Korboński ukazuje
+            również skomplikowaną sytuację polityczną i militarną Polski podczas
+            II wojny światowej oraz jej wpływ na działania ruchu oporu. Książka
+            Korbońskiego to wyjątkowa pozycja, która nie tylko opisuje historię
+            Polskiego Państwa Podziemnego, ale również przedstawia wiele ważnych
+            postaci i wydarzeń, które miały wpływ na przebieg II wojny
+            światowej. Autor ukazuje również skomplikowane relacje między
+            różnymi grupami politycznymi i militarnymi, które działały w czasie
+            okupacji.
+            <div>
+              <br />
+            </div>
+            Książka &quot;Marek Edelman życie. Po prostu&quot; autorstwa Witolda
+            Beresia to wyjątkowa biografia jednego z najwybitniejszych bohaterów
+            polskiej historii - Marka Edelmana. Edelman był jednym z liderów
+            Żydowskiej Organizacji Bojowej (ŻOB) i jednym z głównych
+            organizatorów powstania w getcie warszawskim. Po upadku powstania
+            udało mu się uciec z getta i kontynuować walkę w podziemiu. Książka
+            Beresia to nie tylko opowieść o życiu Edelmana, ale także o jego
+            ideach i poglądach, które były niezwykle ważne dla ruchu oporu w
+            okupowanej Polsce. Witold przedstawia Edelmana jako niezwykle
+            inteligentnego i odważnego człowieka, który miał bardzo jasne i
+            spójne poglądy na temat walki o wolność i godność człowieka. Książka
+            skupia się nie tylko na działalności Edelmana w okupowanej Polsce,
+            ale również na jego życiu po wojnie. Autor opisuje jego działalność
+            w ruchu socjalistycznym i jako lekarza, a także jego zaangażowanie w
+            walkę o prawa człowieka i tolerancję. &quot;Marek Edelman życie. Po
+            prostu&quot; to wnikliwie napisana biografia jednej z
+            najważniejszych postaci polskiego ruchu oporu, która ukazuje nie
+            tylko życie samego Edelmana, ale także sytuację w Polsce i Europie w
+            czasie II wojny światowej oraz jej konsekwencje dla społeczeństwa.
+            <div>
+              <br />
+            </div>
+            Książka &quot;Ogień i pył. Ostatnia wiosna Mordechaja
+            Anielewicza&quot; autorstwa Andrzeja Żbikowskiego to wnikliwa
+            analiza powstania warszawskiego, skupiająca się szczególnie na
+            postaci Mordechaja Anielewicza, jednego z najważniejszych liderów
+            Żydowskiej Organizacji Bojowej (ŻOB). Anielewicz był jednym z
+            głównych organizatorów powstania i dowódców podczas walk, które
+            trwały przez 63 dni i zakończyły się tragiczną klęską. Książka
+            opisuje nie tylko jego rolę w powstaniu, ale także jego życie i
+            działalność w okupowanej Warszawie przed wybuchem wojny. Autor
+            szczegółowo opisuje przygotowania do powstania, przebieg walk oraz
+            tragiczne skutki zrywu. W książce można znaleźć wiele relacji
+            świadków oraz powstańców, którzy opisują dramatyczne wydarzenia i
+            heroizm, jaki przejawiali walczący w powstaniu. Żbikowski ukazuje
+            również skomplikowaną sytuację polityczną i militarną w czasie
+            powstania oraz nieudolność aliantów w udzieleniu pomocy powstańcom.
+            Książka &quot;Ogień i pył. Ostatnia wiosna Mordechaja
+            Anielewicza&quot; to nie tylko wnikliwa analiza wydarzeń związanych
+            z powstaniem warszawskim, ale także hołd dla bohaterów, którzy
+            walczyli o wolność swojego miasta i kraju.
+            <div>
+              <br />
+            </div>
             Podczas powstania Niemcy walczyli z całym zapasem sił.
             Wykorzystywali czołgi, artylerię i bombardowania z powietrza. Walki
             toczyły się ulicami getta, gdzie Żydzi prowadzili obronę i atakowali
