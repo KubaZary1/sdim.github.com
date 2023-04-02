@@ -25,7 +25,7 @@ function App() {
           zbrojna żydowskich organizacji bojowych z Niemcami z perspektywy 80
           lat – o ludzki, społeczny i narodowy honor oraz godność, na
           przykładzie powstania w getcie warszawskim.&quot; Do tego tematu, od
-          razu pomyśleliśmy, że pasować będzie postać Mordechaja Anielewicza.
+          razu pomyśleliśmy, że będzie pasować, postać Mordechaja Anielewicza.
           Wybraliśmy go z kilku powodów:
           <ul className="homePageUlList">
             <li>

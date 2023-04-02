@@ -57,8 +57,9 @@ function Zyciorys() {
           <button onClick={() => prevLogo(2)} className="clickMe">
             [Kliknij tutaj aby zobaczyć jak wyglądało ich logo]
           </button>{" "}
-          , organizacja ta głośiła, że jedynym sensownym rozwiązaniem dla żydów
-          aby być szanowanym i tolerowanym, był wyjazd do palestyny.
+          , organizacja ta głosiła, że jedynym sensownym rozwiązaniem dla żydów,
+          aby być szanowanym i tolerowanym, było utworzenie państwa Palestyny i
+          wyjazd do niego.
           <div className="nowyRozdzial">3. Początki wojska</div> W 1937 roku
           Mordechaj został dowódcą oddziału (gdudu) hufca &quot;Bechazit&quot; i
           członkiem komendy warszawskiej, a w 1939 wszedł do Komendy Naczelnej.
