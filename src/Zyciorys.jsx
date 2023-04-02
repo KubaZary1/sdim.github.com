@@ -2,13 +2,20 @@ import "./zyciorys.css";
 import img1 from "./mordechajAnielewicz/mordechajprofilowe.jpg";
 import img2 from "./mordechajAnielewicz/mordechaj2.jpg";
 import img3 from "./mordechajAnielewicz/mordechaj3.jpg";
-import img4 from "./betar/betar.jpg";
+import img4 from "./logo/betar.jpg";
+import img5 from "./logo/haszomer.jpg";
 
 import { useState } from "react";
 function Zyciorys() {
   const [logoPrev, setLogoPrev] = useState(false);
-  const prevLogo = () => {
+  const [whichImageToShow, setWhichImageToShow] = useState(img4);
+  const prevLogo = (type) => {
     setLogoPrev((prev) => !prev);
+    if (type === 1) {
+      setWhichImageToShow(img4);
+    } else if (type === 2) {
+      setWhichImageToShow(img5);
+    }
   };
   return (
     <>
@@ -19,12 +26,12 @@ function Zyciorys() {
           <img src={img3} alt="profilowe3" width={200} />
         </div>
         <div className={logoPrev ? "imagePopup" : ""}>
-          <img src={img4} alt="BETAR" width={logoPrev ? 300 : 0} />
+          <img src={whichImageToShow} alt="BETAR" width={logoPrev ? 300 : 0} />
           <button
             className={logoPrev ? "closePopupButon" : "closePopupButonDisabled"}
             onClick={() => setLogoPrev(false)}
           >
-            Kliknij aby zamknąć
+            X
           </button>
         </div>
         <div className="big-text">Życie prywatne Mordechaja Anielewicza</div>
@@ -42,13 +49,16 @@ function Zyciorys() {
           o nazwie Betar(Związek Młodzieży Hebrajskiej im. Josefa Trumpeldora),
           organizacja ta dążyła do ustanowienia państwa żydowskiego na terenach
           Palestyny{" "}
-          <button onClick={prevLogo} className="clickMe">
+          <button onClick={() => prevLogo(1)} className="clickMe">
             [Kliknij tutaj aby zobaczyć jak wyglądało ich logo]
           </button>{" "}
           . W roku 1934 dołączył do organizacji skautowej lewicowej o nazwie
-          &quot;Ha-Szomer Ha-Cair&quot;, organizacja ta głośiła, że jedynym
-          sensownym rozwiązaniem dla żydów aby być szanowanym i tolerowanym, był
-          wyjazd do palestyny.
+          &quot;Ha-Szomer Ha-Cair&quot;{" "}
+          <button onClick={() => prevLogo(2)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wyglądało ich logo]
+          </button>{" "}
+          , organizacja ta głośiła, że jedynym sensownym rozwiązaniem dla żydów
+          aby być szanowanym i tolerowanym, był wyjazd do palestyny.
           <div className="nowyRozdzial">3. Początki wojska</div> W 1937 roku
           Mordechaj został dowódcą oddziału (gdudu) hufca &quot;Bechazit&quot; i
           członkiem komendy warszawskiej, a w 1939 wszedł do Komendy Naczelnej.

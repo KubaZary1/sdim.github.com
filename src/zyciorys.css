@@ -29,21 +29,25 @@
   color: rgb(0, 118, 187);
 }
 .imagePopup {
-  display: flex;
-  flex-direction: column;
   position: fixed;
   left: calc(50% - 150px);
   top: calc(50% - 150px);
   border: solid 1px #000;
   border-radius: 3px;
+  background-color: #fff;
 }
 .closePopupButon {
-  background-color: #fff;
+  background-color: #000000;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
   border: none;
   padding: 5px;
+  height: 50px;
+  width: 50px;
   font-weight: 700;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-radius: 3px;
   cursor: pointer;
 }
 .closePopupButonDisabled {
