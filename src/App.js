@@ -10,9 +10,9 @@ function App() {
     <div className="content">
       <div className="big-text">STRONA GŁÓWNA</div>
       <div className="gallery-homepage">
-        <img src={img2} alt="zdjęcia przy pracy" />
-        <img src={img3} alt="zdjęcia przy pracy" />
-        <img src={img1} alt="zdjęcia przy pracy" />
+        <img src={img2} alt="zdjęcia przy pracy 1" />
+        <img src={img3} alt="zdjęcia przy pracy 2" />
+        <img src={img1} alt="zdjęcia przy pracy 3" />
         <img src={img4} alt="zdjęcia książek" />
       </div>
       <div className="container">
