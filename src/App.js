@@ -1,8 +1,20 @@
 import "./App.css";
+
+import img1 from "./naszeZDJ/img1.jpg";
+import img2 from "./naszeZDJ/img3.jpg";
+import img3 from "./naszeZDJ/img2.jpg";
+import img4 from "./naszeZDJ/img4.jpg";
+
 function App() {
   return (
     <div className="content">
       <div className="big-text">STRONA GŁÓWNA</div>
+      <div className="gallery-homepage">
+        <img src={img2} alt="zdjęcia przy pracy" />
+        <img src={img3} alt="zdjęcia przy pracy" />
+        <img src={img1} alt="zdjęcia przy pracy" />
+        <img src={img4} alt="zdjęcia książek" />
+      </div>
       <div className="container">
         <div className="homePageContent">
           Jesteśmy uczniami Szkoły Podstawowej nr 1 im. Fryderyka Chopina w

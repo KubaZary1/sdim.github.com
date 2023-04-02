@@ -1,5 +1,5 @@
 .homePageContent {
-  text-align: center;
+  text-align: left;
   font-size: 28px;
 }
 .content {
@@ -14,6 +14,12 @@
 }
 .homePageUlList {
   list-style-position: inside;
+}
+.gallery-homepage {
+  display: flex;
+  overflow-y: auto;
+  height: 250px;
+  margin-bottom: 10px;
 }
 @media screen and (max-width: 992px) {
   .homePageContent {
