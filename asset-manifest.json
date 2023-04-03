@@ -1,32 +1,40 @@
 {
   "files": {
-    "main.css": "/sdim.github.com/static/css/main.cccfa3a9.css",
-    "main.js": "/sdim.github.com/static/js/main.20bd42c0.js",
+    "main.css": "/sdim.github.com/static/css/main.19cbcb94.css",
+    "main.js": "/sdim.github.com/static/js/main.ad3bad01.js",
     "static/media/img4.jpg": "/sdim.github.com/static/media/img4.d398a1dbd8c564e46581.jpg",
     "static/media/img2.jpg": "/sdim.github.com/static/media/img2.a76928baa9baad0ff446.jpg",
     "static/media/img1.jpg": "/sdim.github.com/static/media/img1.01e4635c3acb7821319c.jpg",
     "static/media/getto.jpg": "/sdim.github.com/static/media/getto.ef157a9fbf458ff14c20.jpg",
+    "static/media/kibuc.jpg": "/sdim.github.com/static/media/kibuc.a1519d14f6d640649e1b.jpg",
+    "static/media/moneta.jpg": "/sdim.github.com/static/media/moneta.e6d9f91553142a13ce56.jpg",
     "static/media/get4.jpg": "/sdim.github.com/static/media/get4.8e0a4c7e4e2e892e27fe.jpg",
     "static/media/getto0.jpg": "/sdim.github.com/static/media/getto0.92e9e4da8b8693778962.jpg",
+    "static/media/pomnikWWarszawie.jpg": "/sdim.github.com/static/media/pomnikWWarszawie.87238396a5fff30bd0bb.jpg",
     "static/media/img3.jpg": "/sdim.github.com/static/media/img3.6ab7bb97117a5a0c0c00.jpg",
+    "static/media/get_most.jpg": "/sdim.github.com/static/media/get_most.ec087a06c3436a60f752.jpg",
     "static/media/get3.jpg": "/sdim.github.com/static/media/get3.c6998827ed38bfea41ec.jpg",
     "static/media/get6.jpg": "/sdim.github.com/static/media/get6.a08775c782ecac724668.jpg",
     "static/media/get5.jpg": "/sdim.github.com/static/media/get5.934304a338d6f1224d33.jpg",
     "static/media/get7.jpg": "/sdim.github.com/static/media/get7.389dd4d076fc17c45a76.jpg",
     "static/media/mordechaj3.jpg": "/sdim.github.com/static/media/mordechaj3.502387b3ef5922b463c1.jpg",
+    "static/media/wyszkowpomnik.jpg": "/sdim.github.com/static/media/wyszkowpomnik.c149bd4e3b79d803b21b.jpg",
+    "static/media/ulicaholandia.jpg": "/sdim.github.com/static/media/ulicaholandia.bf9018228aec563f09d2.jpg",
     "static/media/get1.jpg": "/sdim.github.com/static/media/get1.b11fac74898f4a415ab6.jpg",
     "static/media/happy.png": "/sdim.github.com/static/media/happy.7ef38c3ea51ff23460fd.png",
     "static/media/sad.png": "/sdim.github.com/static/media/sad.e66e5fc32795fa13ffc7.png",
     "static/media/get2.jpg": "/sdim.github.com/static/media/get2.5df089226da3e9ba9f03.jpg",
+    "static/media/zob_flaga.jpg": "/sdim.github.com/static/media/zob_flaga.10dae67b4e380df51d59.jpg",
     "static/media/mordechajprofilowe.jpg": "/sdim.github.com/static/media/mordechajprofilowe.84743e0413b59c426e4c.jpg",
+    "static/media/awerswzoru.jpg": "/sdim.github.com/static/media/awerswzoru.c0cc616cf1099daded4a.jpg",
     "static/media/haszomer.jpg": "/sdim.github.com/static/media/haszomer.fd646c6367e121283f9e.jpg",
     "static/media/betar.jpg": "/sdim.github.com/static/media/betar.d66342d854e838d4704e.jpg",
     "index.html": "/sdim.github.com/index.html",
-    "main.cccfa3a9.css.map": "/sdim.github.com/static/css/main.cccfa3a9.css.map",
-    "main.20bd42c0.js.map": "/sdim.github.com/static/js/main.20bd42c0.js.map"
+    "main.19cbcb94.css.map": "/sdim.github.com/static/css/main.19cbcb94.css.map",
+    "main.ad3bad01.js.map": "/sdim.github.com/static/js/main.ad3bad01.js.map"
   },
   "entrypoints": [
-    "static/css/main.cccfa3a9.css",
-    "static/js/main.20bd42c0.js"
+    "static/css/main.19cbcb94.css",
+    "static/js/main.ad3bad01.js"
   ]
 }
