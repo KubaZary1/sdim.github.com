@@ -15,6 +15,7 @@ function Navbar() {
           <a href="/sdim.github.com/#/">STRONA GŁÓWNA</a>
           <a href="/sdim.github.com/#/zyciorys">ŻYCIORYS</a>
           <a href="/sdim.github.com/#/getto-powstanie">POWSTANIE W GETCIE</a>
+          <a href="/sdim.github.com/#/quiz">QUIZ</a>
         </div>
       </nav>
     </>
