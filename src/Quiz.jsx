@@ -169,12 +169,12 @@ function Quiz() {
             </p>
             <label>
               <input type="radio" name="pyt5" value="pyt5-1" />
-              Syjonistyczna Organizacja Bojowa
+              Bund
             </label>
             <br />
             <label>
               <input type="radio" name="pyt5" value="pyt5-2" />
-              Bund
+              Syjonistyczna Organizacja Bojowa
               {/* Poprawne*/}
             </label>
             <br />
