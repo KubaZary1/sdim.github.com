@@ -5,7 +5,8 @@
   margin-bottom: 10px;
 }
 .gallery {
-  margin-top: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   border: 1px solid #000;
   padding: 15px;
   border-radius: 3px;
@@ -21,4 +22,7 @@
 }
 .content {
   margin: 20px;
+}
+.border img {
+  border: 1px solid #000;
 }

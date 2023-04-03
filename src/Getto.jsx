@@ -9,6 +9,14 @@ import img7 from "./getto/get5.jpg";
 import img8 from "./getto/get6.jpg";
 import img9 from "./getto/get7.jpg";
 
+import imgak1 from "./getto/get_most.jpg";
+import imgak2 from "./getto/zob_flaga.jpg";
+import imgak3 from "./getto/flaga_zzw.jpg";
+
+import imgg1 from "./getto/palocedomy.jpg";
+import imgg2 from "./getto/gettoczolg.jpg";
+import imgg3 from "./getto/palonydom.jpg";
+
 function Getto() {
   return (
     <>
@@ -37,6 +45,11 @@ function Getto() {
             Bojowa (ŻOB) i Żydowski Związek Wojskowy (ŻZW), przeprowadzały
             intensywny trening swoich członków, zbierały broń i amunicję oraz
             planowały atak na niemieckie jednostki.
+            <div className="gallery border">
+              <img src={imgak1} alt="getto zdjęcia 1" width={250} />
+              <img src={imgak2} alt="getto zdjęcia 2" width={250} />
+              <img src={imgak3} alt="getto zdjęcia 3" width={250} />
+            </div>
             <div>
               <br />
             </div>
@@ -113,6 +126,20 @@ function Getto() {
             palenie domów wraz z mieszkańcami. W wyniku walk zginęło około 13
             tysięcy Żydów, a 50 tysięcy zostało wywiezionych do obozów
             koncentracyjnych.
+            <br />
+            <div className="gallery border">
+              <img
+                src={imgg1}
+                alt="zdjęcie palących się domów w getcie"
+                width={250}
+              />
+              <img src={imgg2} alt="zdjęcie czołgu niemieckiego" width={250} />
+              <img
+                src={imgg3}
+                alt="zdjęcie innego płonącego domu w getcie"
+                width={250}
+              />
+            </div>
             <br />
             Mimo porażki powstanie Żydowskie w Getcie Warszawskim stało się
             symbolem walki o wolność i godność człowieka. Żydzi, którzy walczyli

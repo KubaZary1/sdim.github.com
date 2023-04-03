@@ -4,18 +4,39 @@ import img2 from "./mordechajAnielewicz/mordechaj2.jpg";
 import img3 from "./mordechajAnielewicz/mordechaj3.jpg";
 import img4 from "./logo/betar.jpg";
 import img5 from "./logo/haszomer.jpg";
+import img6 from "./zyciorys/gronwalt.jpg";
+import img7 from "./zyciorys/awerswzoru.jpg";
+import img8 from "./zyciorys/moneta.jpg";
+import img9 from "./zyciorys/pomnikWWarszawie.jpg";
+import img10 from "./zyciorys/wyszkowpomnik.jpg";
+import img11 from "./zyciorys/ulicaholandia.jpg";
+import img12 from "./zyciorys/kibuc.jpg";
 
 import { useState } from "react";
 function Zyciorys() {
   const [logoPrev, setLogoPrev] = useState(false);
   const [whichImageToShow, setWhichImageToShow] = useState(img4);
   const prevLogo = (type) => {
-    setLogoPrev((prev) => !prev);
     if (type === 1) {
       setWhichImageToShow(img4);
     } else if (type === 2) {
       setWhichImageToShow(img5);
+    } else if (type === 3) {
+      setWhichImageToShow(img6);
+    } else if (type === 4) {
+      setWhichImageToShow(img7);
+    } else if (type === 5) {
+      setWhichImageToShow(img8);
+    } else if (type === 6) {
+      setWhichImageToShow(img9);
+    } else if (type === 7) {
+      setWhichImageToShow(img10);
+    } else if (type === 8) {
+      setWhichImageToShow(img11);
+    } else if (type === 9) {
+      setWhichImageToShow(img12);
     }
+    setLogoPrev(true);
   };
   return (
     <>
@@ -26,7 +47,7 @@ function Zyciorys() {
           <img src={img3} alt="profilowe3" width={200} />
         </div>
         <div className={logoPrev ? "imagePopup" : ""}>
-          <img src={whichImageToShow} alt="BETAR" width={logoPrev ? 300 : 0} />
+          <img src={whichImageToShow} alt="BETAR" height={logoPrev ? 300 : 0} />
           <button
             className={logoPrev ? "closePopupButon" : "closePopupButonDisabled"}
             onClick={() => setLogoPrev(false)}
@@ -126,11 +147,17 @@ function Zyciorys() {
           <ul className="zyciorysUl">
             <li>
               Order Krzyża Grunwaldu III klasy - 18 kwietnia 1945 (po śmierci,
-              rozkazem ND WP)
+              rozkazem ND WP){" "}
+              <button onClick={() => prevLogo(3)} className="clickMe">
+                [Kliknij tutaj aby zobaczyć jak wygląda]
+              </button>
             </li>
             <li>
               Krzyż Walecznych - 25 lipca 1944 (po śmierci, rozkazem L.400/BP KG
               AK){" "}
+              <button onClick={() => prevLogo(4)} className="clickMe">
+                [Kliknij tutaj aby zobaczyć jak wygląda]
+              </button>
             </li>
           </ul>
           <div>
@@ -147,22 +174,37 @@ function Zyciorys() {
           utworzonego przez uczestników powstania w getcie. W 1955 roku dawna
           ulica Gęsia w Warszawie została przemianowana na ulicę Mordechaja
           Anielewicza, a w 1993 roku Mennica Państwowa wybiła medal z jego
-          podobizną, upamiętniającą 50. rocznicę powstania w getcie.
+          podobizną, upamiętniającą 50. rocznicę powstania w getcie.{" "}
+          <button onClick={() => prevLogo(5)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wygląda]
+          </button>
           <br />
           Mordechaj Anielewicz został również uwieczniony na kamiennym bloku
           Traktu Pamięci Męczeństwa i Walki Żydów w Warszawie oraz na obelisku
-          Kopca Anielewicza przy dawnej ulicy Miłej 18. W 2003 roku, z okazji
-          60. rocznicy śmierci, na skwerze Berka Joselewicza w Wyszkowie
-          odsłonięto pomnik składający się z trzech tablic z napisami w językach
-          polskim, hebrajskim i angielskim, na którym widnieje imię Mordechaja
-          Anielewicza.
+          Kopca Anielewicza przy dawnej ulicy Miłej 18{" "}
+          <button onClick={() => prevLogo(6)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wygląda]
+          </button>
+          . W 2003 roku, z okazji 60. rocznicy śmierci, na skwerze Berka
+          Joselewicza w Wyszkowie odsłonięto pomnik składający się z trzech
+          tablic z napisami w językach polskim, hebrajskim i angielskim, na
+          którym widnieje imię Mordechaja Anielewicza.
+          <button onClick={() => prevLogo(7)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wygląda]
+          </button>
           <br />
-          Jego nazwisko związane jest także z kibucem Jad Mordechaj w Izraelu
+          Jego nazwisko związane jest także z kibucem Jad Mordechaj w Izraelu{" "}
+          <button onClick={() => prevLogo(9)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wygląda]
+          </button>{" "}
           oraz z Centrum Badania i Nauczania Dziejów i Kultury Żydów w Polsce
           im. Mordechaja Anielewicza, założonym w 1990 roku przy Uniwersytecie
           Warszawskim. W Amsterdamie ulica Anielewiczsingel w dzielnicy
           Osdorp-De Aker również upamiętnia bohatera powstania w getcie
-          warszawskim.
+          warszawskim.{" "}
+          <button onClick={() => prevLogo(8)} className="clickMe">
+            [Kliknij tutaj aby zobaczyć jak wygląda dom na tej ulicy]
+          </button>
         </div>
       </div>
     </>

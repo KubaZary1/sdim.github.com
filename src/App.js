@@ -18,7 +18,7 @@ function App() {
       <div className="container">
         <div className="homePageContent">
           Jesteśmy uczniami Szkoły Podstawowej nr 1 im. Fryderyka Chopina w
-          Żarach, chcemy wziąć udział w projekcie w ramach XXIX sesji Sejmu
+          Żarach, chcemy wziąć udział w projekcie w ramach XXIX Sesji Sejmu
           Dzieci I Młodzieży, który ma na celu kształtowanie postaw
           obywatelskich wśród młodych ludzi. W tym roku temat brzmi następująco:
           &quot;Zginąć, ale z honorem (Krystyna Budnicka). Bohaterska walka
