@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sdim.github.com/static/css/main.cccfa3a9.css",
-    "main.js": "/sdim.github.com/static/js/main.3b06966c.js",
+    "main.js": "/sdim.github.com/static/js/main.a04855f7.js",
     "static/media/img4.jpg": "/sdim.github.com/static/media/img4.d398a1dbd8c564e46581.jpg",
     "static/media/img2.jpg": "/sdim.github.com/static/media/img2.a76928baa9baad0ff446.jpg",
     "static/media/img1.jpg": "/sdim.github.com/static/media/img1.01e4635c3acb7821319c.jpg",
@@ -23,10 +23,10 @@
     "static/media/betar.jpg": "/sdim.github.com/static/media/betar.d66342d854e838d4704e.jpg",
     "index.html": "/sdim.github.com/index.html",
     "main.cccfa3a9.css.map": "/sdim.github.com/static/css/main.cccfa3a9.css.map",
-    "main.3b06966c.js.map": "/sdim.github.com/static/js/main.3b06966c.js.map"
+    "main.a04855f7.js.map": "/sdim.github.com/static/js/main.a04855f7.js.map"
   },
   "entrypoints": [
     "static/css/main.cccfa3a9.css",
-    "static/js/main.3b06966c.js"
+    "static/js/main.a04855f7.js"
   ]
 }
