@@ -194,10 +194,7 @@ function Quiz() {
             onChange={(e) => changeValue(e.target.value)}
           >
             <div className="big-text">Pytanie 6</div>
-            <p>
-              Która z tych postaci była przeciwnikiem Mordechaja Anielewicza w
-              getcie warszawskim?
-            </p>
+            <p>Kto dowodził akcją likwidacji getta w Warszawie?</p>
             <label>
               <input type="radio" name="pyt6" value="pyt6-1" />
               Tadeusz Bór-Komorowski
